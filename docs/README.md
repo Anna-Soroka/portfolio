@@ -19,3 +19,5 @@ People remember only about 3 levels of a hierarchy
 ##### H5
 
 Who goes this low? and why?
+
+Check my [LinkedIn](https://www.linkedin.com/in/anna-soroka-84498455/)
