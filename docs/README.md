@@ -1,3 +1,5 @@
+# Examples of my data science projects
+
 ## Price predictions of laptops available on marketplace
 
 The aim of this model is to predict prices of laptops based on a set of features, e.g. processor, CPU, operational system, etc.I have tested a few models (including linear regression and random forest) to minimize an error (RSME) between my predictions and real values.
