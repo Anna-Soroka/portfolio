@@ -5,7 +5,7 @@ The aim of this model is to predict prices of laptops based on a set of features
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a>
 
 [See my notebook in Colab](https://colab.research.google.com/drive/1DRWAaSNhYeFTGkqLRPm5GQIEtqTHKGkt?usp=sharing)
-
+<br><br> 
 
 ## NLP: Sentiment analysis with DistilBERT on books' reviews
 
@@ -14,7 +14,7 @@ In this model I was trying to predict rating of a book (0-5 star) based on a tex
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface" alt="" /></a>
 
 [See my notebook in Colab](https://colab.research.google.com/drive/1rftEVovkyFgy5eGefBa5dbh9NW1woQBE?usp=sharing)
-
+<br><br> 
 
 ## Data visualization with geopandas
 
@@ -24,7 +24,7 @@ In progress :)
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/Geopandas-white?logo=Geopandas" alt="" /></a>
 
 [See my notebook in Colab](https://colab.research.google.com/)
-
+<br><br> 
 
 ### Check also my [LinkedIn](https://www.linkedin.com/in/anna-soroka-84498455/)
 
