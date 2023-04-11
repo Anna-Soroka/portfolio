@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Anna Soroka
 <br><br>
-<img src="./assets/2.jpg" width="150" height="200">]
+<img src="./assets/1.jpg" width="180" height="200">]
 description: [I have 8 years of professional experience in price management based on advanced data analytics and 2 years commercial work with big data (Azure Databricks & python). I have worked 3 years in consulting firm Simon-Kucher&Partners followed by work for Shell (downstream retail) and advisory for price management start-up.<br> I'm open for new opportunities in Data Science field.]
