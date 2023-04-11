@@ -3,6 +3,7 @@
 The aim of this model is to predict prices of laptops based on a set of features, e.g. processor, CPU, operational system, etc.I have tested a few models (including linear regression and random forest) to minimize an error (RSME) between my predictions and real values.
 <br><br> 
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a>
+
 [See my notebook in Colab](https://colab.research.google.com/drive/1DRWAaSNhYeFTGkqLRPm5GQIEtqTHKGkt?usp=sharing)
 <br><br> 
 
