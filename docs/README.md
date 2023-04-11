@@ -3,7 +3,7 @@
 Welcome, and thanks for choosing our product.
 
 ![Anna's photo](./assets/1.jpg)
-![Anna's photo] <img src="./assets/1.jpg" width="100" height="100">
+<img src="./assets/1.jpg" width="400" height="700">
 
 If you want to dive right in, try our [quick start tutorial](./). 
 
