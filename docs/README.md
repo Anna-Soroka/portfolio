@@ -3,7 +3,7 @@
 Welcome, and thanks for choosing our product.
 
 
-<img src="./assets/1.jpg" width="400" height="700">
+<img src="./assets/1.jpg" width="300" height="400">
 
 If you want to dive right in, try our [quick start tutorial](./). 
 
