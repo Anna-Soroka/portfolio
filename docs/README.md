@@ -2,7 +2,7 @@
 
 Welcome, and thanks for choosing our product.
 
-![Anna's photo](./assets/1.jpg)
+
 <img src="./assets/1.jpg" width="400" height="700">
 
 If you want to dive right in, try our [quick start tutorial](./). 
@@ -28,3 +28,6 @@ Check my [LinkedIn](https://www.linkedin.com/in/anna-soroka-84498455/)
 
 View on [Github Pages](https://Anna-Soroka.github.io/portfolio/)
 View on [Github](https://github.com/Anna-Soroka/portfolio/)
+
+
+![Anna's photo](./assets/1.jpg)
