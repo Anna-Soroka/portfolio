@@ -30,4 +30,4 @@ View on [Github Pages](https://Anna-Soroka.github.io/portfolio/)
 View on [Github](https://github.com/Anna-Soroka/portfolio/)
 
 
-![Anna's photo](./assets/1.jpg)
+
