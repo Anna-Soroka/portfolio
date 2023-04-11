@@ -1,15 +1,14 @@
-# Please start here
+# Examples of my Data Science projects
 
 Welcome, and thanks for choosing our product.
 
 
-<img src="./assets/1.jpg" width="300" height="400">
+## NLP: Sentiment analysis with DistilBERT on books' reviews
 
-If you want to dive right in, try our [quick start tutorial](./). 
+In this model I was trying to predict rating of a book (0-5 star) based on a text review. I have fine-tuned a DistilBERT model with 90k training dataset.
+<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface" alt="" /></a>
 
-## Second level header
-
-This gets converted to an H2
+[See my notebook in Colab](https://colab.research.google.com/drive/1rftEVovkyFgy5eGefBa5dbh9NW1woQBE?usp=sharing)
 
 ### Third-level header
 
