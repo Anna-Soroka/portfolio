@@ -25,3 +25,5 @@ Who goes this low? and why?
 Check my [LinkedIn](https://www.linkedin.com/in/anna-soroka-84498455/)
 
 
+View on [Github Pages](https://Anna-Soroka.github.io/portfolio/)
+View on [Github](https://github.com/Anna-Soroka/portfolio/)
