@@ -2,7 +2,7 @@
 
 Welcome, and thanks for choosing our product.
 
-![Anna's photo](./assets/1.jpg)
+![Anna's photo](./assets/1.jpg | width=100)
 
 If you want to dive right in, try our [quick start tutorial](./). 
 
