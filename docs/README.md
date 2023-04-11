@@ -1,7 +1,5 @@
-echo "# portfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Anna-Soroka/portfolio.git
-git push -u origin main
+# Please start here
+
+Welcome, and thanks for choosing our product.
+
+If you want to dive right in, try our [quick start tutorial](./). 
