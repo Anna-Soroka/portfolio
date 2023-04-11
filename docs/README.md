@@ -2,6 +2,8 @@
 
 Welcome, and thanks for choosing our product.
 
+![Anna's photo](./assets/1.jpg)
+
 If you want to dive right in, try our [quick start tutorial](./). 
 
 ## Second level header
@@ -21,3 +23,5 @@ People remember only about 3 levels of a hierarchy
 Who goes this low? and why?
 
 Check my [LinkedIn](https://www.linkedin.com/in/anna-soroka-84498455/)
+
+
