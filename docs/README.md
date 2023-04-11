@@ -1,6 +1,3 @@
-# Examples of my Data Science projects
-
-
 ## Price predictions of laptops available on marketplace
 
 The aim of this model is to predict prices of laptops based on a set of features, e.g. processor, CPU, operational system, etc.I have tested a few models (including linear regression and random forest) to minimize an error (RSME) between my predictions and real values.
@@ -24,7 +21,7 @@ In this model I was trying to predict rating of a book (0-5 star) based on a tex
 In progress :)
 
 <br><br> 
-<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/Geopandas-white?logo=Geopandas" alt="" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/Geopandas-white?logo=Geopandas" alt="" /></a>
 
 [See my notebook in Colab](https://colab.research.google.com/)
 
