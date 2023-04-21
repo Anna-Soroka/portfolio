@@ -4,7 +4,7 @@
 
 The aim of this model is to predict prices of laptops based on a set of features, e.g. processor, CPU, operational system, etc.I have tested a few models (including  random forest and XGBoost). I am showing all steps, including data check, data cleaning, preprocessing, test of different models, reduction of dimensionality and hyperparameters finetuning.
 <br><br>
-<img src="./assets/corr_matrix.png" width="180" height="180">]
+<img src="./assets/corr_matrix.png" width="200" height="200">] <img src="./assets/hist.png" width="300" height="200">]
 <br><br> 
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/sklearn-white?logo=scikit-learn" alt="" /></a>
 
