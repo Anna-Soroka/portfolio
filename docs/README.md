@@ -14,6 +14,8 @@ The aim of this model is to predict prices of laptops based on a set of features
 ## NLP: Sentiment analysis with DistilBERT on books' reviews
 
 In this model I was trying to predict rating of a book (0-5 star) based on a text review. For this task I decided to use a light, distilled version of BERT model, DistilBERT. It's a powerful model, bidirectional and requiring relatively low training data and computational resources, which makes it a good choice for the purpose of this project. I have fine-tuned a DistilBERT model with 90k training dataset.
+<br><br>
+<img src="./assets/reviews.png" width="200" height="200">] <img src="./assets/table.png" width="300" height="200">]
 <br><br> 
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/PyTorch-white?logo=pytorch" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface" alt="" /></a>
 
