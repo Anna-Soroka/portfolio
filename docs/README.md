@@ -26,7 +26,7 @@ In this model I was trying to predict rating of a book (0-5 star) based on a tex
 
 For years Poland was ranked high among countries with the highest number of car accidents fatalities.  According to Polish Institute of Economics (PIE), Poland is the second least safe country in road traffic among OECD countries. In total, in 2021 the costs of road incidents accounted for 1.5% of Polish GDP2021, including the costs of accidents - 1.4% of GDP2021. In this project I will present how the number of car accidents fatalities changed over the years in Poland, how Poland is doing compared to other European countries and what are the main causes of car accidents in Poland.
 <br><br>
-<img src="./assets/map_eu.png" width="400" height="200"> <img src="./assets/counties.png" width="200" height="200">
+<img src="./assets/map_eu.png" width="400" height="250"> 
 <br><br> 
 <a href="#"><img src="https://img.shields.io/badge/Python-white?logo=Python" alt="" /></a> <a href="#"><img src="https://img.shields.io/badge/Jupyter-white?logo=Jupyter" alt="" /></a>  <a href="#"><img src="https://img.shields.io/badge/Geopandas-white?logo=Geopandas" alt="" /></a>
 
